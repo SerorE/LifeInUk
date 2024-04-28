@@ -34,7 +34,7 @@
 | 1455       | Start of civil war                                                                                                               | houses Lancaster (red rose) and York (white rose)                                                                                                                                                                                                                                      |            |
 | 1485       | End War of the Roses                                                                                                             | Battle of Bosworth ( 🔴 Lancaster > ⚪ York ), Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation.                                                                                                                                           |            |
 | 1560       | Scottish abolish the Pope                                                                                                        |                                                                                                                                                                                                                                                                                        |            |
-| 1588       | Spanish Armada                                                                                                                   | Elizabeth I defeats Spanish invasion to convert to Catholicism                                                                                                                                                                                                                         |            |
+| 1588       | Spanish Armada                                                                                                                   | Elizabeth I defeats Spanish invasion to conquer England and restore Catholicism                                                                                                                                                                                                                         |            |
 | 1603       | James I                                                                                                                          | End of the Tudor period, James VI of Scotland becomes king                                                                                                                                                                                                                             |            |
 | 1605       | Guy Fawkes                                                                                                                       | with Catholics tries to bomb the Parliament to kill the Protestant king on 5th of November                                                                                                                                                                                             |            |
 | 1642       | Civil war                                                                                                                        | after Charles I asked Parliament for money, Cavaliers (king) and Roundheads (parliament)                                                                                                                                                                                               |            |
@@ -458,3 +458,22 @@ Devolved administrations
   - debate important national issues
 - As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged **18 to 70** can be asked to do this.
 - In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales.
+- 
+
+## Some test results 
+
+| Question                                                                                      | Correct Answer                 |
+|-----------------------------------------------------------------------------------------------|--------------------------------|
+| Is the statement below TRUE or FALSE? Northern Ireland is part of Great Britain.              | False                          |
+| The Grand National at Aintree is an event in which sport?                                     | Horse racing                   |
+| Which of the following statements is correct?                                                 | Many civilian volunteers helped the British Navy to rescue more than 300,000 men from the beaches around Dunkirk. |
+| Which TWO of the following are British values based on?                                       | Traditions, History            |
+| What practice did Sake Dean Mahomet introduce to Britain?                                     | The Indian art of head massage |
+| Which of the following statements is correct?                                                 | The Scottish National Gallery is in Edinburgh. |
+| Which of the following statements is correct?                                                 | The leader of the opposition appoints shadow cabinet. |
+| What happens on 11 November every year?                                                       | Remembrance Day                |
+| Which TWO of the following suspended new recruitment of ‘crossing sweepers’ for 10 years?    | Cardiff, Glasgow               |
+| Which city makes up most of the Scottish Parliament seats?                                    | Glasgow                        |
+| Why did Parliament take to restore Charles II in 1660?                                        | They believed in the divine right of kings. |
+| Who wrote the Harry Potter series of books?                                                   | J.K. Rowling                   |
+
