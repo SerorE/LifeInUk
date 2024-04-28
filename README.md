@@ -42,10 +42,10 @@
 | 1649       | Britain republic                                                                                                                 | after Charles I is executed                                                                                                                                                                                                                                                            |            |
 | 1656       | First Jews in England                                                                                                            | since the Middle Ages                                                                                                                                                                                                                                                                  |            |
 | 1658       | Lord Protector Oliver Cromwell dies                                                                                              |                                                                                                                                                                                                                                                                                        |            |
-| 1660       | Charles II comes back to be king                                                                                                 | (he hid in an oak tree after being defeated in Battle of Dunbar in Worcester), ends 11 years of republic, The Restoration                                                                                                                                                              |            |
+| 1660       | Charles II comes back to be king                                                                                                 | (he hid in an oak tree after being defeated in Battle of Dunbar in Worcester), ends 11 years of republic, The Restoration. Pro-science (Royal society, Isaac Newton)                                                                                                                                                              |            |
 | 1665       | Plague                                                                                                                           |                                                                                                                                                                                                                                                                                        |            |
-| 1666       | Great Fire                                                                                                                       |                                                                                                                                                                                                                                                                                        |            |
-| 1679       | Habeas Corpus                                                                                                                    | you must present the person in court                                                                                                                                                                                                                                                   |            |
+| 1666       | Great Fire                                                                                                                       | , St Paul Cathedral destroyed then rebuilt (Christopher Wren)                                                                                                                                                                                                                                                                                       |            |
+| 1679       | Habeas Corpus                                                                                                                    | you must present the person in court, against unlawful prisoners                                                                                                                                                                                                                                                   |            |
 | 1685       | James II                                                                                                                         | was James VII of Scotland, becomes king after Charles II dies                                                                                                                                                                                                                          |            |
 | 1689       | Glorious Revolution                                                                                                              | William of Orange invades England                                                                                                                                                                                                                                                      |            |
 | 1690       | Battle of Boyne                                                                                                                  | James flees to France with Jacobite supporters                                                                                                                                                                                                                                         |            |
@@ -143,12 +143,12 @@
 | William Shakespeare                    | born in Stratford-upon-Avon was a playwright and actor and wrote poems and plays                                                                   | 1564-1616       |
 | Mary Stuart                            | a week old when she became queen, went to England and remain in prison for 20 years and then executed                                              | -               |
 | James I                                | of England Wales and Ireland, was VI of Scotland                                                                                                   | -               |
-| Charles I                              | starts Civil War with Parliament loses and gets executed                                                                                           | -               |
-| Oliver Cromwell                        | Lord Protector during 11 years of Republic                                                                                                         | -1658           |
-| Charles II                             | comes back to be king, interested in science forms Royal Society                                                                                   | -1685           |
+| Charles I                              | wanted Curch of E to include more ceremony, introduct revised prayer book. Starts Civil War with Parliament following them demanding control of the English army, loses and gets executed                                                                                           | -               |
+| Oliver Cromwell                        | Lord Protector during 11 years of Republic (called Commonwealth), violent in Ireland.                                                                                                        | -1658           |
+| Charles II                             | comes back to be king from Scotland (Scots hadn't agreed to Charles I execution), interested in science forms Royal Society                                                                                   | -1685           |
 | Sir Edmund Halley                      | member of Royal Society, predicts the return of the Halley's Comet                                                                                 | -               |
-| Isaac Newton                           | studied at Cambridge, work on Philosophiae Naturalis Principia Mathematica                                                                         | 1643-1727       |
-| James II                               | brother of CharlesII he is VII of Scotland, favour Catholics                                                                                       | -               |
+| Isaac Newton                           | studied at Cambridge, work on Philosophiae Naturalis Principia Mathematica. White light made of many colours.                                                                         | 1643-1727       |
+| James II                               | brother of CharlesII he is VII of Scotland, favour Catholics (allowed them to be army officers)                                                                                       | -               |
 | William of Orange                      | husband of Mary elder of the King, invades England defeats James that flees to France, Bills of Rights                                             | -               |
 | George I                               | a german becomes king                                                                                                                              | 1714-           |
 | Robert Walpole                         | **first prime minister** under George I                                                                                                            | 1721-42         |
@@ -459,6 +459,35 @@ Devolved administrations
 - As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged **18 to 70** can be asked to do this.
 - In November 2012, the public elected Police and Crime Commissioners (PCCs) in England and Wales.
 - 
+## Key English Monarchs
+
+| Reign             | Name                    | Key Fact                                  |
+|-------------------|-------------------------|-------------------------------------------|
+| 1066 – 1087       | William I (the Conqueror) | Norman conqueror, commissioned the Domesday Book. |
+| 1154 – 1189       | Henry II                 | Established the Plantagenet dynasty, reformed the legal system. |
+| 1189 – 1199       | Richard I (the Lionheart) | Known for his role in the Third Crusade. |
+| 1216 – 1272       | Henry III                | His long reign saw the Provisions of Oxford, the first constitution in Europe. |
+| 1272 – 1307       | Edward I                 | Laws "Statutes of Edward", conquered Wales. |
+| 1307 – 1327       | Edward II                | Defeated by his own wife, Isabella, and her lover in a civil war. |
+| 1327 – 1377       | Edward III               | Oversaw the start of the Hundred Years' War. |
+| 1377 – 1399       | Richard II               | First king to abdicate the throne.        |
+| 1485 – 1509       | Henry VII                | First Tudor king, ended the Wars of the Roses. |
+| 1509 – 1547       | Henry VIII               | Notable for his six marriages and the English Reformation. |
+| 1558 – 1603       | Elizabeth I              | The Elizabethan Era, defeat of the Spanish Armada. |
+| 1603 – 1625       | James I                  | First monarch to rule both England and Scotland, sponsored the King James Bible. |
+| 1625 – 1649       | Charles I                | His conflict with Parliament led to the English Civil War. |
+| 1660 – 1685       | Charles II               | The Restoration of the Monarchy.          |
+| 1689 – 1702       | William III and Mary II  | Co-rulers after the Glorious Revolution.  |
+| 1702 – 1714       | Anne                     | Last Stuart monarch, Act of Union with Scotland. |
+| 1714 – 1727       | George I                 | First Hanoverian king, spoke little English. |
+| 1727 – 1760       | George II                | Last British monarch born outside Great Britain, fought in the last battle involving a British monarch. |
+| 1760 – 1820       | George III               | Lost the American colonies, the Regency period during his madness. |
+| 1837 – 1901       | Victoria                 | Longest-reigning monarch until Elizabeth II, emblematic of the Victorian Era. |
+| 1910 – 1936       | George V                 | Oversaw the transformation from empire to commonwealth. |
+| 1936              | Edward VIII              | Abdicated to marry Wallis Simpson.        |
+| 1936 – 1952       | George VI                | Reign included WWII, father of Elizabeth II. |
+| 1952 – Present    | Elizabeth II             | Longest-reigning current monarch, witnessed significant changes in modern history. |
+
 
 ## Some test results 
 
