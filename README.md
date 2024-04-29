@@ -191,29 +191,30 @@
 
 ### Sport
 
-| Name                               | Achievement                                                                                                           |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Sir Roger Bannister                | first men to rin a 1 mile in less than 4 minutes                                                                      |
-| Sir Jackie Stewart                 | scottish racing driver won Formula 1 3 times                                                                          |
-| Bobby Moore                        | captain the English football team winning the 1966 world cup                                                          |
-| Sir Ian Botham                     | capitan of English Cricket team and winner of cricket records                                                         |
-| Jayne Torvill and Christopher Dean | won gold medal in ice dancing at Olympics in 1984                                                                     | in 5 consecutive Olympics |
-| Sir Steve Redgrave                 | won gold medals in rowing in 5 consecutive Olympics                                                                   |
-| Baroness Tanni Grey-Thompson       | wheelchair records, 11 gold medals                                                                                    |
-| Dame Kelly Holmes                  | won 2 gold medals for running in 2004 Olympics                                                                        |
-| Dame Ellen MacArthur               | yachtswoman fastest person to sail around the world in 2014                                                           |
-| Sir Chris Hoy                      | Scottish cyclist that won 6 gold and 1 silver Olympic medals and 11 world championships                               |
-| David Weir                         | Paralympian with wheelchair has won 6 gold medals and London marathon 6 times                                         |
-| Sir Bradley Wiggings               | cyclist, first briton to win the tour de france in 2012, won 7 olympic medals including golds in 2004,2008 and 2012   |
-| Mo Farah                           | won gold medals in 2012 Olympics , first briton to win a medal in 10,000 metres                                       |
-| Jessica Ennis                      | won 2012 Olympic heptathlon                                                                                           |
-| Andy Murray                        | Scottish tennis player won men's singles in US open in 2012, he won gold and silver medals at the Olympics            |
-| Ellie Simmonds                     | Paralympian won gold medals for swimming at 2008 and 2012 Paralympic Games, was the youngest member at the 2008 Games |
-| Sir Francis Chichester             | first person to sail single-handed around the world in 1966/67                                                        |
-| Sir Robin Knox-Johnston            | first person to sail single-handed around the world without stopping                                                  |
-| Damon Hill                         | won the Formula 1 World Championship                                                                                  |
-| Lewis Hamilton                     | won the Formula 1 World Championship                                                                                  |
-| Jensen Button                      | won the Formula 1 World Championship                                                                                  |
+| Name                         | Achievement                                                                                                  |
+|------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Sir Roger Bannister          | First man to run a 1 mile in less than 4 minutes                                                             |
+| Sir Jackie Stewart           | Scottish racing driver, won Formula 1 three times                                                            |
+| Bobby Moore                  | Captained the English football team to win the 1966 World Cup                                                |
+| Sir Ian Botham               | Captain of English Cricket team and winner of cricket records                                                |
+| Jayne Torvill and Christopher Dean | Won gold medal in ice dancing at the 1984 Olympics                                                         |
+| Sir Steve Redgrave           | Won gold medals in rowing in 5 consecutive Olympics                                                          |
+| Baroness Tanni Grey-Thompson | Set wheelchair records, won 11 gold medals                                                                   |
+| Dame Kelly Holmes            | Won 2 gold medals for running in the 2004 Olympics                                                           |
+| Dame Ellen MacArthur         | Yachtswoman, fastest person to sail around the world in 2014                                                 |
+| Sir Chris Hoy                | Scottish cyclist, won 6 gold and 1 silver Olympic medals and 11 world championships                          |
+| David Weir                   | Paralympian, has won 6 gold medals and the London marathon 6 times                                           |
+| Sir Bradley Wiggins          | Cyclist, first Briton to win the Tour de France in 2012, won 7 Olympic medals including golds in 2004, 2008, and 2012 |
+| Mo Farah                     | Won gold medals in the 2012 Olympics, first Briton to win a medal in 10,000 metres                           |
+| Jessica Ennis                | Won 2012 Olympic heptathlon                                                                                  |
+| Andy Murray                  | Scottish tennis player, won men's singles in US open in 2012, won gold and silver medals at the Olympics     |
+| Ellie Simmonds               | Paralympian, won gold medals for swimming at the 2008 and 2012 Paralympic Games, was the youngest member at the 2008 Games |
+| Sir Francis Chichester       | First person to sail single-handed around the world in 1966/67                                               |
+| Sir Robin Knox-Johnston     | First person to sail single-handed around the world without stopping                                         |
+| Damon Hill                   | Won the Formula 1 World Championship                                                                         |
+| Lewis Hamilton               | Won the Formula 1 World Championship                                                                         |
+| Jensen Button                | Won the Formula 1 World Championship                                                                         |
+
 
 ### Sport facts
 
@@ -356,12 +357,13 @@
 
 ## Countries characteristics
 
-| Country       | Population | Day           | Saint      | Flower   | Food                                                                                                              |
-| ------------- | ---------- | ------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Wales         | 5%         | 1st March     | St David   | Daffodil | welsh cakes (flour dried fruits and spices)                                                                       |
-| North Ireland | <3%        | 17th March    | St Patrick | Shamrock | Ulster fry (bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread) |
-| England       | 84%        | 23rd April    | St George  | Rose     | roast beef (served with potatoes, vegetables), Yorkshire puddings, fish and chips, fish and chips                 |
-| Scotland      | 8%         | 30th November | St Andrew  | Thisle   | haggis (sheep's stomach stuffed with offal, suet, onions and oatmeal)                                             | haggis (sheep's stomach stuffed with offal, suet, onions and oatmeal) |
+| Country       | Population | Day          | Saint      | Flower    | Food                                                                                                     |
+|---------------|------------|--------------|------------|-----------|----------------------------------------------------------------------------------------------------------|
+| Wales         | 5%         | 1st March    | St David   | Daffodil  | Welsh cakes (flour, dried fruits, and spices)                                                           |
+| North Ireland | <3%        | 17th March   | St Patrick | Shamrock  | Ulster fry (bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread, and potato bread) |
+| England       | 84%        | 23rd April   | St George  | Rose      | Roast beef (served with potatoes, vegetables), Yorkshire puddings, fish and chips                       |
+| Scotland      | 8%         | 30th November| St Andrew  | Thistle   | Haggis (sheep's stomach stuffed with offal, suet, onions, and oatmeal)                                   |
+
 
 ### Numbers
 
@@ -415,19 +417,19 @@
 
 Starts with:
 
-> God save our gracious Queen!
->
-> Long Live our noble Queen!
->
-> God save the Queen!
->
-> Send her victorious,
+> God save our gracious King!
+> 
+> Long live our noble King!
+> 
+> God save the King!
+> 
+> Send him victorious,
 >
 > Happy and glorious,
 >
 > Long to reign over us,
 >
-> God save the Queen!
+> God save the King.
 
 ## Government
 
