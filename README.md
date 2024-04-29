@@ -513,5 +513,7 @@ Union Flag consist of 3 crosses:
 - Cross of St George [patron saint of England]
 - Cross of St Andrew [Scotland]
 - Cross of St Patric [Ireland]
--> Wales not in it
+
+
+-> Wales not in it. Welsh flag is the dragon. 
 
