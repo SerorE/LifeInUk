@@ -129,7 +129,7 @@
 
 | Name                                   | What                                                                                                                                               | Period          |
 | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| William (Duke of Normandy)             | Defeats saxon King Harold, **Doomsday Book**                                                                                                       | 1066            |
+| William (Duke of Normandy)             | Defeats saxon King Harold, **Domesday Book**                                                                                                       | 1066            |
 | King John                              | **Magna Carta**                                                                                                                                    | 1215            |
 | Kind Edward I                          | **Statute of Rhuddlan**                                                                                                                            | 1284            |
 | Robert The Bruce                       | defeats english Battle of Bannockburn                                                                                                              | 1314            |
